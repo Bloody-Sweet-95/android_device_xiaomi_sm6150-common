@@ -33,4 +33,7 @@
 
     <!-- Whether to show a alarm dialog when device's usb port is overheating. -->
     <integer name="config_showUsbPortAlarm">1</integer>
+
+    <!-- Show 5G toggle in internet dialog when available -->
+    <bool name="config_supportsVONR">false</bool>
 </resources>
